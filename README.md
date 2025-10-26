@@ -52,7 +52,7 @@ product-dashboard/
 1. **Clone repository**
    ```bash
    git clone <repository-url>
-   cd product-dashboard
+   cd test-coding-dashboard
    ```
 
 2. **Install dependencies**
